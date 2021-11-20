@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ebotbesong
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @ebotbesong and currently a Ph.D student in electrical and computer engineering at Yokohama National University, Japan
+- 👀 I’m interested in frontier engineering and science
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ebotbesong@gmail.com
 
