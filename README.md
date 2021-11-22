@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ebotbesong and currently a Ph.D student in electrical and computer engineering at Yokohama National University, Japan
-- 👀 I’m interested in frontier engineering and science
+- 👀 I’m interested in frontier engineering and science.
 - 🌱 I’m currently learning to make change on a global scale 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m always looking to collaborate 
 - 📫 How to reach me ebotbesong@gmail.com
 
 <!---
