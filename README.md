@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ebotbesong, currently a Ph.D student in electrical and computer engineering  @Yokohama National University, Japan
+- 👋 Hi, I’m @ebotbesong, Ph.D student in electrical and computer engineering  @Yokohama National University, Japan
 - 👀 I’m interested in frontier engineering and science.
 - 🌱 I’m currently learning to make change on a global scale 
 - 💞️ I’m always looking to collaborate 
-- 📫 How to reach me ebotbesong@gmail.com
+- 📫 You can reach me through ebotbesong@gmail.com
 
 <!---
 ebotbesong/ebotbesong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
