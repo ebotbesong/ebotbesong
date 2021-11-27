@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontier engineering and science.
 - 🌱 I’m currently learning to make change on a global scale 
 - 💞️ I’m always looking to collaborate with other researchers around the world 
-- 📫 You can reach me through ebotbesong@gmail.com
+- 📫 You can reach via ebotbesong@gmail.com
 
 <!---
 ebotbesong/ebotbesong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
