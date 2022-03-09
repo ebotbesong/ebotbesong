@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ebotbesong, Ph.D student in electrical and computer engineering  @Yokohama National University, Japan
+- 👋 Hi, I’m @ebotbesong, PhD student in electrical and computer engineering  @Yokohama National University, Japan
 - 👀 I’m interested in engineering and science
 - 🌱 I am a passionate life learner
 - 💞️ I’m always open for collaboration
